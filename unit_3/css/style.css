@@ -1,0 +1,21 @@
+body {
+text-align: center;
+font-family: Helvetica; sans-serif;
+font-weight: regular;
+font-size: 16px;
+color: #000000;
+}
+h1 {
+font-family: Didot; serif;
+font-weight: bold;
+font-size: 48px;
+}
+}
+hr {
+	width: 400px;
+	line-height: 20px;
+}
+#slogan {
+text-align: center;
+color: black;
+}
